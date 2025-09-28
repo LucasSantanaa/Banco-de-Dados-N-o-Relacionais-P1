@@ -18,3 +18,8 @@
 
 ## Prints do db com alguns testes realizados
 
+<img width="1396" height="723" alt="Mongodb_testes" src="https://github.com/user-attachments/assets/bf10c20f-7e99-4e8b-a3c8-a4dfacfe37e9" />
+
+<img width="633" height="178" alt="Terminal" src="https://github.com/user-attachments/assets/d10aaf08-2af9-48d7-a6d1-61d448734d09" />
+
+<img width="1391" height="666" alt="Chat_mensagens" src="https://github.com/user-attachments/assets/75ac59fc-b814-4f00-8799-ec4e6b267377" />
